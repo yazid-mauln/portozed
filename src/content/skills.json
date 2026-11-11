@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        { "name": "TypeScript", "level": "proficient" },
+        { "name": "JavaScript", "level": "proficient" },
+        { "name": "Python", "level": "used in projects" },
+        { "name": "Java", "level": "familiar" }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "React", "level": "proficient" },
+        { "name": "Next.js", "level": "used in projects" },
+        { "name": "Tailwind CSS", "level": "used in projects" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "Node.js", "level": "used in projects" },
+        { "name": "Express", "level": "used in projects" },
+        { "name": "REST APIs", "level": "used in projects" }
+      ]
+    },
+    {
+      "category": "Database",
+      "items": [
+        { "name": "PostgreSQL", "level": "used in projects" },
+        { "name": "MySQL", "level": "used in projects" }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        { "name": "Docker", "level": "familiar" },
+        { "name": "GitHub Actions", "level": "familiar" }
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        { "name": "Git", "level": "proficient" },
+        { "name": "VS Code", "level": "proficient" },
+        { "name": "Postman", "level": "used in projects" }
+      ]
+    }
+  ]
+}

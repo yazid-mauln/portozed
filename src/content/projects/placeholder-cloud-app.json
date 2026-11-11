@@ -1,0 +1,26 @@
+{
+  "slug": "placeholder-cloud-app",
+  "title": "[EXAMPLE - REPLACE] Cloud Infrastructure Project",
+  "summary": "[EXAMPLE - REPLACE] A cloud-native application or infrastructure project demonstrating deployment automation, container orchestration, or cloud service integration.",
+  "category": "Cloud & DevOps",
+  "technologies": ["[EXAMPLE - REPLACE] Docker", "[EXAMPLE - REPLACE] GitHub Actions", "[EXAMPLE - REPLACE] AWS / GCP / Azure"],
+  "featured": true,
+  "published": true,
+  "role": "[EXAMPLE - REPLACE] Cloud Engineer / DevOps",
+  "period": "[EXAMPLE - REPLACE] 2026",
+  "problem": "[EXAMPLE - REPLACE] Describe the infrastructure or deployment challenge this project addresses.",
+  "solution": "[EXAMPLE - REPLACE] Describe your cloud architecture and tooling choices.",
+  "highlights": [
+    "[EXAMPLE - REPLACE] Automated deployment pipeline using GitHub Actions.",
+    "[EXAMPLE - REPLACE] Containerized application with Docker and orchestrated with [tool].",
+    "[EXAMPLE - REPLACE] Reduced deployment time from X to Y."
+  ],
+  "challenges": [],
+  "results": [],
+  "coverImage": null,
+  "gallery": [],
+  "model3d": null,
+  "demoUrl": null,
+  "repositoryUrl": null,
+  "videoUrl": null
+}

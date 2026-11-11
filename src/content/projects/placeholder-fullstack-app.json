@@ -1,0 +1,30 @@
+{
+  "slug": "placeholder-fullstack-app",
+  "title": "[EXAMPLE - REPLACE] Full Stack Web Application",
+  "summary": "[EXAMPLE - REPLACE] A full-stack web application that solves [problem] for [target users], built with React, Node.js, and PostgreSQL.",
+  "category": "Full Stack",
+  "technologies": ["[EXAMPLE - REPLACE] React", "[EXAMPLE - REPLACE] Node.js", "[EXAMPLE - REPLACE] PostgreSQL", "[EXAMPLE - REPLACE] Docker"],
+  "featured": true,
+  "published": true,
+  "role": "[EXAMPLE - REPLACE] Full Stack Developer",
+  "period": "[EXAMPLE - REPLACE] 2026",
+  "problem": "[EXAMPLE - REPLACE] Describe the real problem this project addresses. What pain point existed before this solution?",
+  "solution": "[EXAMPLE - REPLACE] Describe your technical approach. What architecture choices did you make and why?",
+  "highlights": [
+    "[EXAMPLE - REPLACE] Implemented X feature using Y technology, resulting in Z improvement.",
+    "[EXAMPLE - REPLACE] Designed the database schema and REST API from scratch.",
+    "[EXAMPLE - REPLACE] Deployed to a containerized environment using Docker."
+  ],
+  "challenges": [
+    "[EXAMPLE - REPLACE] Describe a specific technical challenge you faced and how you solved it."
+  ],
+  "results": [
+    "[EXAMPLE - REPLACE] Quantifiable outcome or user feedback."
+  ],
+  "coverImage": null,
+  "gallery": [],
+  "model3d": null,
+  "demoUrl": null,
+  "repositoryUrl": null,
+  "videoUrl": null
+}

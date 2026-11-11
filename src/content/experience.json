@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "organization": "PT. Nusantara Compnet Integrator",
+      "role": "Full Stack Developer - Intern",
+      "period": "Feb 2026 – Feb 2027",
+      "responsibilities": [
+        "Developing and optimizing backend services to ensure seamless API performance.",
+        "Writing clean, scalable, and well-documented code to support system operations.",
+        "Collaborating with front-end developers to integrate APIs and troubleshoot issues.",
+        "Assisting in testing, debugging, and maintaining backend functionality to enhance service reliability."
+      ],
+      "technologies": ["React", "Node.js", "PostgreSQL", "gitlab", "Elasticsearch"]
+    },
+    {
+      "organization": "PT. FInnet Indonesia",
+      "role": "Backend Developer - Intern",
+      "period": "2022 – 2023",
+      "responsibilities": [
+        "Developing and optimizing backend services to ensure seamless API performance.",
+        "Writing clean, scalable, and well-documented code to support system operations.",
+        "Collaborating with front-end developers to integrate APIs and troubleshoot issues.",
+        "Assisting in testing, debugging, and maintaining backend functionality to enhance service reliability."
+      ],
+      "achievements": [],
+      "technologies": ["Laravel", "Angular", "MySQL"]
+    }
+  ]
+}

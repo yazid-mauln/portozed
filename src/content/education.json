@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "institution": "BINUS University",
+      "degree": "Bachelor of Computer Science",
+      "field": "Computer Science - (Network Engineering and Security)",
+      "period": "2023 – Present",
+      "gpa": "3.54 / 4.00",
+      "notes": [
+        "Relevant coursework: Data Structures, Algorithms, Web Development, Cloud Computing.",
+        "Active member of the Software Engineering student community."
+      ]
+    },
+    {
+      "institution": "SMK Telkom Shandy Putra Jakarta",
+      "degree": "Rekayasa Perangkat Lunak",
+      "field": "Software Engineering",
+      "period": "2020 – 2023",
+      "gpa": "93.00",
+      "notes": [
+        "Relevant coursework: Data Structures, Algorithms, Web Development, Cloud Computing.",
+        "Active member of the Software Engineering student community."
+      ]
+    }
+  ]
+}
